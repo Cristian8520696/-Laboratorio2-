@@ -1,0 +1,14 @@
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\PARTE#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\PARTE#1.AssemblyInfoInputs.cache
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\PARTE#1.AssemblyInfo.cs
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\PARTE#1.csproj.CoreCompileInputs.cache
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\bin\Debug\net9.0\PARTE#1.exe
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\bin\Debug\net9.0\PARTE#1.deps.json
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\bin\Debug\net9.0\PARTE#1.runtimeconfig.json
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\bin\Debug\net9.0\PARTE#1.dll
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\bin\Debug\net9.0\PARTE#1.pdb
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\PARTE#1.dll
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\refint\PARTE#1.dll
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\PARTE#1.pdb
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\PARTE#1.genruntimeconfig.cache
+C:\Users\Cccas\OneDrive\Escritorio\EJERCICIOS LABORATORIO 2\PARTE#1\PARTE#1\obj\Debug\net9.0\ref\PARTE#1.dll
